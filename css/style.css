@@ -1,0 +1,91 @@
+/*CSS style*/
+
+#main-wrapper{
+	width:500px;
+	margin: 0 auto;
+	background: white;
+	padding: 5px;
+	border-radius: 10px;
+	border: 1px solid #34495e;
+}
+#home-wrapper{
+	width:1500px;
+	margin: 0 auto;
+	background: white;
+	padding: 5px;
+	border-radius: 10px;
+	border: 1px solid #34495e;
+}
+.avatar{
+	width: 150px;
+	text-allign:center;
+}
+.avatarRegis{
+	width: 150px;
+	text-align: center;
+}
+.avatarHome{
+	width: 50px;
+	text-align: right;
+}
+.myform{ 
+	width:200px;
+	margin: 0 auto; 
+}
+.inputvalues{
+	width: 200px;
+	margin: 0 auto;
+}
+.criminalimg{
+	width: 150px;
+	text-align: right;
+}
+#login_btn{
+	margin-top: 10px;
+	background-color: #34495e;
+	padding: 5px;
+	color:white;
+	width: 200px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+}
+#register_btn{
+	margin-top: 10px;
+	background-color: #34495e;
+	padding: 5px;
+	color:white;
+	width: 200px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+}
+#signup_btn{
+	margin-top: 10px;
+	background-color: #34495e;
+	padding: 5px;
+	color:white;
+	width: 200px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+}
+#back_btn{
+	margin-top: 10px;
+	background-color: #2980b9;
+	padding: 3px;
+	color:white;
+	width: 50;
+	text-align: left;
+	font-size: 10;
+
+}
+#logout_btn{
+	margin-top: 10px;
+	background-color: #34495e;
+	padding: 3px;
+	color:white;
+	width: 50;
+	text-align: center;
+	font-size: 10;
+}
